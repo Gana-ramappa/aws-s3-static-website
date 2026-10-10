@@ -1,2 +1,19 @@
-# aws-s3-static-website
-Designed and deployed a static website using Amazon S3 for reliable, scalable, and cost-effective web hosting on AWS.
+
+# AWS S3 Static Website Hosting
+
+## Project Overview
+A static website hosted using Amazon S3.
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- Amazon S3
+
+## Features
+- Responsive basic webpage
+- Styled user interface
+- Interactive button
+
+## Deployment
+The website files are uploaded to an Amazon S3 bucket configured for static website hosting.
